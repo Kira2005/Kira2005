@@ -1,7 +1,8 @@
 ### Hi there 👋
-### Programmer from India
+### Programmer from India ![image](https://github.com/Kira2005/Kira2005/assets/102726902/c5372aaf-3075-4491-a30f-92b232948f80)
+
 ### Studying in Amrita Vishwa Vidyapeetham, Amritapuri
-### 😄 Pronouns: she/her
+### 😄 Pronouns: she/her 
 <!--
 **Kira2005/Kira2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
